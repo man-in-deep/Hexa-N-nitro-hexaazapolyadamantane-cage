@@ -1,0 +1,149 @@
+1. Correct Chemical Identity (Recap)
+
+Working name: HNAA-10
+Systematic name:
+Hexakis(N-nitro)-1,3,5,7,9,11-hexaazatricyclo[3.3.1.1³,⁷]decane
+
+This describes a rigid, adamantane-topology cage with:
+
+10 skeletal atoms total
+
+6 ring nitrogens
+
+4 ring carbons
+
+Each ring nitrogen substituted with one N-nitro (–N–NO₂) group
+
+2. Correct Molecular Structure (Explained)
+Cage framework
+
+The core is a tricyclic cage identical in topology to adamantane
+
+Total cage atoms: 10
+
+6 nitrogen atoms
+
+4 carbon atoms
+
+Bonding rules (important)
+
+Each ring nitrogen:
+
+Bonded to two cage atoms
+
+Bonded to one nitro group via N–N bond
+
+Formal valence = 3 (neutral nitramine nitrogen)
+
+Each ring carbon:
+
+Bonded to three cage atoms
+
+Bonded to one hydrogen (C–H)
+
+There are no C–NO₂ bonds anywhere in the structure.
+
+3. HNAA-10 — Correct Structural Description (Text Schematic)
+
+Below is a conceptual cage layout (topology, not a synthesis diagram):
+
+        N(NO2)
+        /   \
+   C———N     N———C
+   |     \   /     |
+   |      C—C      |
+   |     /   \     |
+   C———N     N———C
+        \   /
+        N(NO2)
+
+Key:
+
+N = ring nitrogen (each bears one –NO₂)
+
+C = ring carbon (each bears one H)
+
+All atoms are part of a rigid, fused tricyclic cage
+
+This satisfies:
+
+Correct valence
+
+Correct heteroatom count
+
+Correct substitution pattern
+
+4. Molecular Formula Calculation (Corrected and Verified)
+Step 1: Count cage atoms
+
+Carbon (C): 4
+
+Nitrogen (ring N): 6
+
+Step 2: Count substituents
+
+Each of 6 ring nitrogens has one nitro group
+
+Nitro contribution:
+
+Nitrogen: +6
+
+Oxygen: +12
+
+Step 3: Count hydrogens
+
+Each of 4 carbons has one hydrogen
+
+Hydrogen total: 4
+
+✅ Final Molecular Formula
+C4 H4 N12 O12
+Breakdown:
+
+C = 4
+
+H = 4
+
+N = 6 (ring) + 6 (nitro) = 12
+
+O = 12
+
+This formula is chemically consistent and correct.
+
+5. Molecular Weight Calculation (Correct)
+
+Using standard atomic weights:
+
+Element	Count	Atomic Weight (g/mol)	Contribution
+C	4	12.01	48.04
+H	4	1.008	4.03
+N	12	14.01	168.12
+O	12	16.00	192.00
+✅ Total Molecular Weight
+48.04
++
+4.03
++
+168.12
++
+192.00
+=
+412.2
+ g/mol
+48.04+4.03+168.12+192.00=
+412.2 g/mol
+(≈ 412 g/mol, rounded)
+
+6. Final Clean Summary (Technically Correct)
+
+Structure: Rigid tricyclic cage (adamantane topology)
+
+Cage atoms: 6 nitrogen, 4 carbon
+
+Substitution: Six N-nitro (nitramine) groups
+
+Hydrogens: Only on carbon (4 total)
+
+Molecular formula: C₄H₄N₁₂O₁₂
+
+Molecular weight: ≈412 g/mol
