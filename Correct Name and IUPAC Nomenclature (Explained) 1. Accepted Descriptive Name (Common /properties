@@ -1,0 +1,29 @@
+.
+
+---
+
+## **PHYSICAL PROPERTIES (PREDICTED / CONCEPTUAL)**
+
+| Property             |            Corrected / Bounded Value | Basis / Assumption                                              |
+| -------------------- | -----------------------------------: | --------------------------------------------------------------- |
+| Appearance           | White to off-white crystalline solid | High symmetry cage → crystalline solid                          |
+| Melting Point        |             **>250 °C (decomposes)** | Polyaza cages decompose before melting; exact T not predictable |
+| Density              |                  **1.90–2.05 g/cm³** | High N/O content + compact cage; upper bound only               |
+| Solubility (acetone) |                           **≤5 g/L** | Rigid cage, low polarity mismatch                               |
+| Solubility (DMF)     |                        **10–30 g/L** | Polar aprotic solvent compatibility (upper bound)               |
+| Solubility (water)   |                            Insoluble | Cage + low H-bond donation                                      |
+| Crystal System       |   **Unknown (high symmetry likely)** | Symmetry does not guarantee cubic packing                       |
+| Hygroscopicity       |                    Low to negligible | No ionic sites; neutral cage                                    |
+| Thermal Stability    |     **Stable to ~250–300 °C (dec.)** | Cage rigidity vs. energetic substituents                        |
+
+---
+
+## **SENSITIVITY (PURELY THEORETICAL BOUNDS)**
+
+| Test                 | Corrected / Bounded Value            | Basis / Assumption                      |
+| -------------------- | -----------------------------------: | --------------------------------------- |
+| Impact Sensitivity   |**Not quantifiable (moderate–high)**  | No empirical data; cage ≠ insensitivity |
+| Friction Sensitivity |**Unknown (non-zero)**                | Substituent-dependent; cannot predict   |
+| Electrostatic        |**Unknown (non-zero)**                | Charge localization uncertain           |
+| Thermal (DSC)        |**Onset >250 °C (dec.)**              | Decomposition dominates                 |
+
