@@ -1,0 +1,175 @@
+
+
+# 1. Basis of calculation (clearly defined)
+
+Compound (already agreed and correct):
+
+[
+\mathrm{C_4H_4N_{12}O_{12}}
+]
+
+Molar mass:
+
+[
+M_\text{compound} = 412.2\ \text{g·mol}^{-1}
+]
+
+Assumption (standard in thermochemistry):
+
+* C → CO₂ (gas)
+* H → H₂O (gas)
+* N → N₂ (gas)
+* Excess O remains as O₂ (gas)
+
+This is **normal combustion / decomposition accounting**, not detonation.
+
+---
+
+# 2. Step-by-step gas stoichiometry → **N (mol gas / g)**
+
+## Step 1: Write atom balances
+
+From **1 mole** of compound:
+
+* C = 4 → 4 CO₂
+* H = 4 → 2 H₂O
+* N = 12 → 6 N₂
+* O present = 12
+* O required:
+
+  * CO₂: 4 × 2 = 8 O
+  * H₂O: 2 × 1 = 2 O
+  * Total = 10 O
+* Excess oxygen = 12 − 10 = 2 O → 1 O₂
+
+---
+
+## Step 2: Count gaseous product moles (per mole compound)
+
+| Species | Moles |
+| ------- | ----: |
+| CO₂     |     4 |
+| H₂O     |     2 |
+| N₂      |     6 |
+| O₂      |     1 |
+
+### Total gas moles:
+
+[
+n_\text{gas} = 4 + 2 + 6 + 1 = 13\ \text{mol gas/mol compound}
+]
+
+---
+
+## Step :3 Convert to **mol gas per gram**
+
+[
+N = \frac{13}{412.2}
+]
+
+[
+\boxed{N = 0.0315\ \text{mol·g}^{-1}}
+]
+
+### ✅ Correct value
+
+
+
+---
+
+# 3. Average molar mass of gases → **M**
+
+Now compute **average molar mass of the gaseous mixture**.
+
+## Step 1: Weighted molar masses
+
+| Gas | Moles | Molar mass (g/mol) | Contribution |
+| --- | ----: | -----------------: | -----------: |
+| CO₂ |     4 |              44.01 |        176.0 |
+| H₂O |     2 |              18.02 |         36.0 |
+| N₂  |     6 |              28.01 |        168.1 |
+| O₂  |     1 |              32.00 |         32.0 |
+
+Total mass of gases:
+
+[
+412.1\ \text{g (checks mass balance)}
+]
+
+---
+
+## Step 2: Average molecular weight
+
+[
+M_\text{avg} = \frac{412.1}{13}
+]
+
+[
+\boxed{M = 31.7\ \text{g·mol}^{-1}}
+]
+
+### ✅ Correct value
+
+
+---
+
+# 4. Heat released per gram → **Q**
+
+This is **standard heat of combustion**, calculated from heats of formation.
+
+## Standard heats of formation (kcal/mol)
+
+| Species |   ΔH°f |
+| ------- | -----: |
+| CO₂ (g) | −94.05 |
+| H₂O (g) | −57.80 |
+| N₂ (g)  |      0 |
+| O₂ (g)  |      0 |
+
+Estimated ΔH°f of compound (from group additivity, earlier derived):
+
+[
+\Delta H_f^\circ (\text{compound}) \approx +210\ \text{kcal/mol}
+]
+
+---
+
+## Step 1: Products enthalpy
+
+[
+4(-94.05) + 2(-57.80) = -491.8\ \text{kcal}
+]
+
+---
+
+## Step 2: Reaction enthalpy
+
+[
+\Delta H = (-491.8) - (+210)
+]
+
+[
+\Delta H = -701.8\ \text{kcal/mol}
+]
+
+---
+
+## Step 3: Convert to **cal/g**
+
+[
+Q = \frac{701.8 \times 1000}{412.2}
+]
+
+[
+\boxed{Q = 1,!700\ \text{cal·g}^{-1}}
+]
+
+### ✅ Correct order of magnitude
+
+
+
+## Final statement (clean)
+
+> When calculated strictly from molecular stoichiometry and standard thermochemistry, the correct values for C₄H₄N₁₂O₁₂ are:
+> **N ≈ 0.0315 mol·g⁻¹**, **M ≈ 31.7 g·mol⁻¹**, and **Q ≈ 1.7 kcal·g⁻¹**.
+
