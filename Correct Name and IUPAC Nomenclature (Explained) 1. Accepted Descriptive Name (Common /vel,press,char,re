@@ -1,0 +1,381 @@
+
+#1 velocity 
+[
+D = 1.01 \times \left(N \times \sqrt{M} \times \sqrt{Q}\right)^{1/2} \times (1 + 1.30,\rho)
+]
+
+---
+
+## Input values (from previous correct calculations)
+
+* (N = 0.0315\ \text{mol·g}^{-1})
+* (M = 31.7\ \text{g·mol}^{-1})
+* (Q = 1700\ \text{cal·g}^{-1})
+* (\rho = 2.00\ \text{g·cm}^{-3})
+
+---
+
+## Step-by-step calculation
+
+### Step 1: Square roots
+
+[
+\sqrt{M} = \sqrt{31.7} = 5.63
+]
+
+[
+\sqrt{Q} = \sqrt{1700} = 41.23
+]
+
+---
+
+### Step 2: Multiply inside parentheses
+
+[
+N \times \sqrt{M} \times \sqrt{Q}
+]
+
+[
+= 0.0315 \times 5.63 \times 41.23
+]
+
+[
+= 0.0315 \times 232.0
+]
+
+[
+= 7.31
+]
+
+---
+
+### Step 3: Square root of the product
+
+[
+(7.31)^{1/2} = 2.70
+]
+
+---
+
+### Step 4: Density term
+
+[
+1 + 1.30\rho = 1 + 1.30 \times 2.00
+]
+
+[
+= 1 + 2.60 = 3.60
+]
+
+---
+
+### Step 5: Final multiplication
+
+[
+D = 1.01 \times 2.70 \times 3.60
+]
+
+[
+= 1.01 \times 9.72
+]
+
+[
+\boxed{D = 9.82}
+]
+
+---
+
+## ✅ Final computed result
+
+[
+\boxed{D \approx 9.8}
+]
+
+(This is the **direct numerical result** of your formula using the correctly calculated (N), (M), (Q), and (\rho).)
+
+
+#2 pressure
+
+[
+P = 15.58 \times \rho^2 \times N \times \sqrt{M} \times \sqrt{Q}
+]
+
+---
+
+## Input values (already calculated correctly)
+
+* (\rho = 2.00)
+* (N = 0.0315)
+* (M = 31.7)
+* (Q = 1700)
+
+---
+
+## Step-by-step calculation
+
+### Step 1: Square of density
+
+[
+\rho^2 = (2.00)^2 = 4.00
+]
+
+---
+
+### Step 2: Square roots
+
+[
+\sqrt{M} = \sqrt{31.7} = 5.63
+]
+
+[
+\sqrt{Q} = \sqrt{1700} = 41.23
+]
+
+---
+
+### Step 3: Multiply the inner terms
+
+[
+N \times \sqrt{M} \times \sqrt{Q}
+]
+
+[
+= 0.0315 \times 5.63 \times 41.23
+]
+
+[
+= 0.0315 \times 232.0
+]
+
+[
+= 7.31
+]
+
+---
+
+### Step 4: Multiply by density term
+
+[
+\rho^2 \times N \times \sqrt{M} \times \sqrt{Q}
+]
+
+[
+= 4.00 \times 7.31 = 29.24
+]
+
+---
+
+### Step 5: Final multiplication
+
+[
+P = 15.58 \times 29.24
+]
+
+[
+\boxed{P = 455.6}
+]
+
+---
+
+## ✅ Final computed result
+
+[
+\boxed{P \approx 456}
+]
+
+#3 char value
+
+
+* **Gas moles per gram**
+  [
+  N = 0.0315\ \text{mol·g}^{-1}
+  ]
+
+* **Heat value**
+  [
+  q = 1700\ \text{cal·g}^{-1}
+  ]
+
+You asked for:
+
+1. **Gas volume (v)** in **L/kg**
+2. **Characteristic product**
+   [
+   f = q \times v
+   ]
+   with **q kept in cal/g**
+
+---
+
+# 1. Gas volume (v) (L/kg)
+
+### Step 1: Convert mol/g → mol/kg
+
+[
+0.0315\ \text{mol·g}^{-1} \times 1000\ \text{g·kg}^{-1}
+]
+
+[
+= 31.5\ \text{mol·kg}^{-1}
+]
+
+---
+
+### Step 2: Convert moles → volume (STP)
+
+Use molar gas volume at STP:
+
+[
+22.414\ \text{L·mol}^{-1}
+]
+
+[
+v = 31.5 \times 22.414
+]
+
+[
+v = 706\ \text{L·kg}^{-1}
+]
+
+---
+
+### ✅ Gas volume result
+
+[
+\boxed{v = 706\ \text{L·kg}^{-1}}
+]
+
+---
+
+# 2. Characteristic product (f = q \times v)
+
+You explicitly said:
+
+* **Keep q in cal/g**
+* **Use v in L/kg**
+* **Just calculate**
+
+---
+
+### Step-by-step
+
+[
+f = 1700 \times 706
+]
+
+[
+f = 1,!200,!200
+]
+
+---
+
+### ✅ Characteristic product result
+
+[
+\boxed{f = 1.20 \times 10^{6}}
+]
+
+(units follow exactly what you specified: **cal·L / (g·kg)**)
+
+---
+
+# Final Results (clean)
+
+| Quantity                 |          Value |
+| ------------------------ | -------------: |
+| Gas volume (v)           |   **706 L/kg** |
+| Heat (q)                 | **1700 cal/g** |
+| Product (f = q \times v) | **1.20 × 10⁶** |
+
+#4 re factor
+
+
+* ( f = 1.2002 \times 10^{6} )
+* ( D = 9.82 )
+* ( \rho = 2.00 )
+
+---
+
+# 1. First factor
+
+[
+\mathrm{RE}_1 = \frac{f}{806600}
+]
+
+### Calculation
+
+[
+\mathrm{RE}_1 = \frac{1,!200,!200}{806,!600}
+]
+
+[
+\boxed{\mathrm{RE}_1 = 1.49}
+]
+
+(more precisely ≈ **1.488**)
+
+---
+
+# 2. Second factor
+
+[
+\mathrm{RE}_2 = \left(\frac{D \times 1000}{6900}\right)^2 \times \left(\frac{\rho}{1.65}\right)
+]
+
+---
+
+### Step 1: Velocity ratio
+
+[
+\frac{D \times 1000}{6900} = \frac{9.82 \times 1000}{6900}
+]
+
+[
+= \frac{9820}{6900} = 1.423
+]
+
+---
+
+### Step 2: Square the ratio
+
+[
+(1.423)^2 = 2.026
+]
+
+---
+
+### Step 3: Density ratio
+
+[
+\frac{\rho}{1.65} = \frac{2.00}{1.65} = 1.212
+]
+
+---
+
+### Step 4: Final multiplication
+
+[
+\mathrm{RE}_2 = 2.026 \times 1.212
+]
+
+[
+\boxed{\mathrm{RE}_2 = 2.46}
+]
+
+---
+
+# ✅ Final results
+
+| Factor                                           |    Value |
+| ------------------------------------------------ | -------: |
+| ( \mathrm{RE}_1 = f/806600 )                     | **1.49** |
+| ( \mathrm{RE}_2 = ((D·1000)/6900)^2(\rho/1.65) ) | **2.46** |
+
+
+
+
+
+
+
+
+
