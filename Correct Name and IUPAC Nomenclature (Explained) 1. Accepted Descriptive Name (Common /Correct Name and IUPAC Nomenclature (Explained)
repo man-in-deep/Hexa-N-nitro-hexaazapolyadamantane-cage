@@ -1,0 +1,85 @@
+1. Accepted Descriptive Name (Common / Working Name)
+
+Hexa-N-nitro hexaazapolyadamantane cage
+
+This is not IUPAC, but it is acceptable as a research or descriptive name
+
+It clearly communicates:
+
+a rigid adamantane-like cage
+
+six ring nitrogens
+
+six N-nitro (nitramine) substituents
+
+2. Correct Systematic IUPAC-Style Name
+Full IUPAC Name
+
+Hexakis(N-nitro)-1,3,5,7,9,11-hexaazatricyclo[3.3.1.1³,⁷]decane
+
+This is the correct and defensible IUPAC systematic nomenclature for the structure you described.
+
+3. Breakdown of the IUPAC Name (Explained)
+tricyclo[3.3.1.1³,⁷]decane
+
+Describes a 10-atom rigid cage framework
+
+This is the same cage topology as adamantane
+
+“decane” refers to 10 skeletal atoms, not a hydrocarbon
+
+hexaaza-
+
+Six of the ten skeletal atoms are nitrogen
+
+Replaces six carbons of the parent cage
+
+This converts the structure from a hydrocarbon to a heteropolycyclic cage
+
+1,3,5,7,9,11-
+
+Specifies the positions of the six ring nitrogens
+
+Numbering follows heteroatom-priority IUPAC rules
+
+Adamantane numbering is not reused
+
+hexakis(N-nitro)
+
+“hexakis” = six identical substituents
+
+“N-nitro” specifies that each –NO₂ group is bonded to nitrogen
+
+This is nitramine substitution, not carbon-nitro
+
+Using “nitro” alone would be incorrect
+
+4. Why “adamantane” Is NOT in the IUPAC Name
+
+Adamantane is a hydrocarbon parent
+
+Once heteroatoms (nitrogen) are introduced:
+
+adamantane can only be referenced topologically
+
+it cannot be used as the parent name
+
+IUPAC requires polycyclic heterocycle nomenclature instead
+
+This is why tricyclo[3.3.1.1³,⁷]decane is used.
+
+5. Correct Molecular Identity (Summary)
+
+Structural class: Polyaza polycyclic cage
+
+Cage atoms: 4 carbon, 6 nitrogen
+
+Substitution: Six N-nitro (–N–NO₂) groups
+
+Bonding: All nitro groups are on nitrogen (nitramine)
+
+Molecular formula: C₄H₄N₁₂O₁₂
+
+6. Final Clean Statement (You Can Reuse This)
+
+The compound is correctly described as Hexakis(N-nitro)-1,3,5,7,9,11-hexaazatricyclo[3.3.1.1³,⁷]decane, a fully N-nitro-substituted hexaaza cage compound with an adamantane-like topology. The structure consists of a rigid ten-vertex polycyclic framework containing six ring nitrogens and four carbons, with each ring nitrogen bearing one N-nitro (nitramine) substituent.
