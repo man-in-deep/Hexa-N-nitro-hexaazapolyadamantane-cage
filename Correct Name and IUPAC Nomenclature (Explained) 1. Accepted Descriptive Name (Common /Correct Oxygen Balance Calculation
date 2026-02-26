@@ -1,0 +1,68 @@
+1. Molecular Formula Used
+
+From the corrected structure:
+
+C4 H4 N12 O12
+Molar mass (previously verified):
+
+𝑀=412.2g\cdotpmol
+
+2. Definition of Oxygen Balance (OB)
+
+Oxygen balance expresses whether a compound contains more or less oxygen than required to fully oxidize carbon to CO₂ and hydrogen to H₂O, ignoring nitrogen (assumed to form N₂).
+
+The standard formula is:
+
+OB(%)=1600/𝑀(𝑂−2𝐶−𝐻/2)
+Where:
+
+𝐶,𝐻,𝑂
+C,H,O are the number of atoms in the molecular formula
+
+𝑀
+M is molar mass in g·mol⁻¹
+
+1600 is a conventional scaling constant
+
+3. Step-by-Step Calculation
+Step 1: Insert atomic counts
+
+Carbon: 
+C=4
+
+Hydrogen: 
+H=4
+
+Oxygen: 
+O=12
+
+Step 2: Oxygen required for full oxidation
+
+Carbon → CO₂:
+4×2=8 oxygen atoms
+
+Hydrogen → H₂O:
+4×.5
+=2 oxygen atoms
+
+Total oxygen required=8+2=10
+
+Step 3: Oxygen excess
+O−(2C+H/2)=12−10=2
+Step 4: Oxygen balance percentage
+OB=(1600×2)/412.2
+OB=+7.76%
+
+	​
+
+4. Interpretation (Chemical Meaning Only)
+
+Positive oxygen balance means the molecule contains more oxygen than required to oxidize its carbon and hydrogen.
+
+This is a purely compositional statement derived from elemental stoichiometry.
+
+It does not by itself imply any specific physical behavior or application.
+
+5. Final Correct Statement (Reusable)
+
+For the molecular formula C₄H₄N₁₂O₁₂, the oxygen balance calculated according to standard stoichiometric conventions is +7.76%, indicating a slight excess of oxygen relative to that required for complete oxidation of carbon and hydrogen.
